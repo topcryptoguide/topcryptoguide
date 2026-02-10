@@ -1,0 +1,3 @@
+# [Como comprar THETA (THETA)](https://topcryptoguide.com/como-comprar-theta-theta/)
+
+Este artículo enseña cómo comprar **THETA**, la criptomoneda de la red Theta, enfocada en streaming de vídeo descentralizado. La guía se centra en usar **Binance** para adquirir THETA, comenzando por registrarse y verificar la cuenta, luego depositar fondos (con tarjeta o transferencia) y finalmente hacer la compra en el mercado. Se explica el uso del modo básico o avanzado según experiencia. Además, ofrece contexto sobre qué es **Theta**, un proyecto blockchain que busca mejorar la eficiencia y calidad del streaming mediante una red de nodos distribuidos y dos tokens: THETA (gobernanza) y TFUEL (operativo). :contentReference[oaicite:0]{index=0}
