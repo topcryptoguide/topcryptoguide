@@ -1,0 +1,4 @@
+# [Como comprar Kyber Network (KNC)](https://topcryptoguide.com/como-comprar-kyber-network-knc/)
+
+Este artículo (como los de TopCryptoGuide) suele explicar cómo adquirir **Kyber Network Crystal (KNC)**, el token nativo de **Kyber Network**, un protocolo de liquidez on-chain usado para facilitar intercambios instantáneos y gobernanza dentro del ecosistema DeFi. Normalmente la guía detalla los pasos: **crear una cuenta en un exchange** (como Binance u otros soportados), **verificar identidad**, **depositar fondos** con tarjeta o transferencia y luego **comprar KNC** en el mercado correspondiente. También suele ofrecer contexto sobre qué es Kyber Network, su utilidad como token de gobernanza y su participación en incentivos de liquidez, además de opciones de almacenamiento en wallets compatibles. :contentReference[oaicite:0]{index=0}
+::contentReference[oaicite:1]{index=1}
