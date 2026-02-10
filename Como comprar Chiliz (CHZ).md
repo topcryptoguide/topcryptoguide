@@ -1,0 +1,3 @@
+# [Como comprar Chiliz (CHZ)](https://topcryptoguide.com/como-comprar-chiliz-chz/)
+
+Esta guía te muestra cómo comprar **Chiliz (CHZ)**, un criptoactivo asociado al ecosistema de fan tokens y la plataforma Socios.com, donde los seguidores pueden interactuar con sus equipos favoritos. El artículo explica paso a paso cómo usar **Binance** como exchange principal: registrarse, verificar tu cuenta, depositar fondos (tarjeta o transferencia) y finalmente comprar CHZ en su mercado. También describe brevemente qué es **Chiliz**, su enfoque en deportes y entretenimiento, y por qué su token ha ganado popularidad entre inversores y entusiastas de cripto, con aplicaciones en votaciones y participación de fans. :contentReference[oaicite:0]{index=0}
