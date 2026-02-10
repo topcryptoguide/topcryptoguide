@@ -1,0 +1,3 @@
+# [Como comprar TRON (TRX)](https://topcryptoguide.com/como-comprar-tron-trx/)
+
+Este artículo explica cómo comprar **TRON (TRX)**, la criptomoneda de la red TRON conocida por su enfoque en entretenimiento digital y aplicaciones descentralizadas. La guía se enfoca en usar el exchange **Binance**: registra una cuenta, verifica tu identidad, deposita fondos con tarjeta o transferencia y finalmente ejecuta la compra de TRX. El texto también incluye contexto sobre qué es TRON y su tecnología blockchain, resaltando su escalabilidad, asociaciones con plataformas como BitTorrent y DLive, y su crecimiento en el ecosistema cripto. Además, menciona la compra de TRX desde varios países de Latinoamérica y España. :contentReference[oaicite:0]{index=0}
