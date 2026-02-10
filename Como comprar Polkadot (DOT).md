@@ -1,0 +1,3 @@
+# [Como comprar Polkadot (DOT)](https://topcryptoguide.com/como-comprar-polkadot-dot/)
+
+Este artículo guía sobre cómo comprar Polkadot (DOT), centrado principalmente en usar **Binance**, uno de los exchanges de criptomonedas más grandes del mundo. Explica los pasos básicos: **crear una cuenta**, verificarla y **depositar fondos** con tarjeta de crédito, débito o transferencia bancaria para luego intercambiar por DOT. También describe brevemente qué es Polkadot y por qué podría valer la pena comprar este token, destacando su tecnología de interoperabilidad entre blockchains y su sistema de gobernanza descentralizada. La guía además sugiere diversas versiones de la plataforma según tu experiencia. :contentReference[oaicite:0]{index=0}
