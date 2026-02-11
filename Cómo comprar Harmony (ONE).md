@@ -1,0 +1,3 @@
+# [Cómo comprar Harmony (ONE)](https://topcryptoguide.com/como-comprar-harmony-one/)
+
+Esta guía de compra de **Harmony (ONE)** detalla cómo adquirir este token de blockchain enfocado en alta escalabilidad e interoperabilidad (similar a otras cadenas como Solana o Ethereum con sharding) mediante un proceso sencillo en exchanges populares. El artículo típicamente cubre **registro y verificación** en un exchange que soporte ONE (por ejemplo Binance, MEXC o Gate.io), **depositar fondos** con tarjeta o transferencia y luego **comprar ONE** en el mercado spot buscando el par correspondiente (p. ej., ONE/USDT). También suele ofrecer contexto sobre qué es Harmony y opciones adicionales de compra según país o método de pago. :contentReference[oaicite:0]{index=0}
