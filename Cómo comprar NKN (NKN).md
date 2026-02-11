@@ -1,0 +1,3 @@
+# [Cómo comprar NKN (NKN)](https://topcryptoguide.com/como-comprar-nkn-nkn/)
+
+Este artículo te explica cómo **comprar NKN (NKN)**, un token de blockchain centrado en redes descentralizadas y transmisión eficiente de datos, usando principalmente **Binance** como exchange recomendado: crear y verificar tu cuenta, depositar fondos (tarjeta, transferencia u otras opciones) y luego intercambiar por NKN en el mercado spot. El artículo también incluye una introducción sobre qué es NKN y su tecnología de Proof of Relay que busca crear redes seguras y escalables. Además presenta instrucciones específicas para usuarios en países de Latinoamérica y España, con pasos clave para principiantes. :contentReference[oaicite:0]{index=0}
