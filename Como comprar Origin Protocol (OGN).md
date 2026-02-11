@@ -1,0 +1,3 @@
+# [Como comprar Origin Protocol (OGN)](https://topcryptoguide.com/como-comprar-origin-protocol-ogn/)
+
+Este artículo te enseña cómo comprar **Origin Protocol (OGN)**, un token de criptomoneda que se usa para gobernanza y transacciones dentro del ecosistema Origin, enfocado en mercados descentralizados y finanzas DeFi. La guía se centra en el uso de **Binance** como una de las plataformas principales: crear y verificar tu cuenta, depositar fondos (tarjeta de crédito/débito o transferencia) y luego comprar OGN en el mercado usando la interfaz básica o avanzada. También incluye una breve descripción de qué es Origin Protocol y por qué algunos usuarios encuentran atractivo este activo dentro de la economía cripto. :contentReference[oaicite:0]{index=0}
