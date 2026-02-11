@@ -1,0 +1,3 @@
+# [Como comprar Cartesi (CTSI)](https://topcryptoguide.com/como-comprar-cartesi-ctsi/)
+
+Esta guía de TopCryptoGuide explica cómo comprar **Cartesi (CTSI)**, un token que impulsa una blockchain orientada a mejorar la escalabilidad y facilidad de desarrollo de aplicaciones descentralizadas. El artículo describe los pasos básicos para adquirir CTSI principalmente a través de **Binance**: registrarse y verificar tu cuenta, depositar fondos con tarjeta o transferencia, y luego ejecutar la compra en el mercado. También incluye una breve introducción sobre qué es Cartesi y por qué su tecnología off-chain puede interesar a desarrolladores de dApps. La guía se adapta a usuarios en varios países de Latinoamérica y España. :contentReference[oaicite:0]{index=0}
