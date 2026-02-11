@@ -1,0 +1,3 @@
+# [Como comprar Waves (WAVES)](https://topcryptoguide.com/como-comprar-waves-waves/)
+
+Este tipo de guía explica cómo comprar **Waves (WAVES)**, un activo digital nativo de la blockchain Waves, enfatizando un proceso accesible incluso para principiantes. Normalmente, la guía comienza con **registrarse en un exchange** que soporte WAVES (como Binance, MEXC, OKX o Bybit), **verificar la cuenta** y **depositar fondos** mediante tarjeta de crédito/débito o transferencia bancaria. A continuación, se busca el par WAVES en el mercado y se confirma la compra. El artículo también suele dar contexto sobre la funcionalidad de Waves, su uso para crear activos y la importancia de revisar tarifas y detalles del trade antes de confirmar. :contentReference[oaicite:0]{index=0}
