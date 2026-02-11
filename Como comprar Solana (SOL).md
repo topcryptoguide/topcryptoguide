@@ -1,0 +1,3 @@
+# [Como comprar Solana (SOL)](https://topcryptoguide.com/como-comprar-solana-sol/)
+
+Esta guía de TopCryptoGuide te muestra cómo comprar **Solana (SOL)** principalmente a través del **exchange Binance**, empezando por **crear y verificar tu cuenta**, **depositar fondos** con tarjeta de crédito/débito o transferencia y luego **comprar SOL** en el mercado. El artículo también da **contexto sobre Solana**, explicando que es la criptomoneda nativa de la blockchain Solana, destacada por su alta velocidad y bajas comisiones, útil para pagar tarifas, interactuar con aplicaciones descentralizadas y participar en su ecosistema. Además incluye variaciones del proceso para usuarios en distintos países de Latinoamérica y España. :contentReference[oaicite:0]{index=0}
