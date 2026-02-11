@@ -1,0 +1,3 @@
+# [Cómo comprar Power Ledger (POWR)](https://topcryptoguide.com/como-comprar-power-ledger-powr/)
+
+Aunque no pude abrir directamente el artículo original de TopCryptoGuide, las guías típicas de este sitio te enseñan cómo **comprar Power Ledger (POWR)** de manera práctica y paso a paso. El proceso comienza con **crear y verificar una cuenta** en un exchange que soporte POWR, **depositar fondos** (como tarjeta de crédito/débito o transferencia) y luego **comprar POWR** en el mercado spot. También puedes usar **stablecoins como USDT** para intercambiar por POWR si no está disponible directamente. Estas guías suelen incluir una breve explicación del proyecto Power Ledger y consejos de seguridad para adquirir y guardar el token. :contentReference[oaicite:0]{index=0}
