@@ -1,0 +1,3 @@
+# [Como comprar Zcash (ZEC)](https://topcryptoguide.com/como-comprar-zcash-zec/)
+
+Este artículo enseña cómo comprar **Zcash (ZEC)**, una criptomoneda enfocada en la privacidad de las transacciones en blockchain. La guía describe pasos básicos habituales en plataformas como **Binance** u otros exchanges: **crear y verificar una cuenta**, **depositar fondos** con tarjeta o transferencia y después **comprar ZEC** en el mercado spot. También suele incluir contexto sobre qué es Zcash, su tecnología de privacidad y cómo encontrar el par de trading correcto antes de confirmar la compra. El enfoque es práctico y accesible, pensado para principiantes que quieren adquirir ZEC de forma segura y entender el proceso general. :contentReference[oaicite:0]{index=0}
