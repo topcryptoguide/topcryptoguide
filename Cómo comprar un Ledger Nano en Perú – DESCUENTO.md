@@ -1,0 +1,5 @@
+# [Cómo comprar un Ledger Nano en Perú – DESCUENTO](https://topcryptoguide.com/como-comprar-un-ledger-nano-en-peru-descuento/)
+
+**Cómo adquirir una billetera física Ledger Nano desde Perú** aprovechando descuentos y opciones disponibles en el mercado local e internacional. La recomendación principal en guías de este tipo es **comprar desde distribuidores oficiales o tiendas reconocidas** para asegurarte de que el dispositivo sea auténtico y seguro, evitando productos usados o manipulados. En Perú puedes encontrar modelos como **Ledger Nano X** o **Ledger Nano S Plus** disponibles para compra local, incluso con opciones de pago en **cuotas sin interés o envíos dentro del país**.:contentReference[oaicite:0]{index=0}  
+
+Además, existen **códigos promocionales y cupones de descuento** que pueden ofrecer hasta un **~15-20 % u ofertas de envío gratis** al comprar dispositivos Ledger desde tiendas online con soporte para Perú, lo que ayuda a reducir el costo total de la compra.:contentReference[oaicite:1]{index=1}  
