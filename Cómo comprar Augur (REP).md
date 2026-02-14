@@ -1,0 +1,3 @@
+### [Cómo comprar Augur (REP)](https://topcryptoguide.com/como-comprar-augur-rep/)
+
+Esta guía describe **cómo comprar el token Augur (REP)**, una criptomoneda asociada a mercados de predicción descentralizados. Explica los pasos para adquirir REP en plataformas de intercambio de criptomonedas, incluyendo cómo registrarse en un exchange que liste el token y ejecutar la compra. También aborda las opciones de pares comerciales disponibles para REP, los requisitos básicos de verificación y los métodos comunes de pago o depósito. Además, suele incluir recomendaciones de seguridad para proteger tus activos digitales y consejos prácticos para principiantes interesados en invertir o participar en la red Augur.
