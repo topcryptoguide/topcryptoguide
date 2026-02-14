@@ -1,0 +1,3 @@
+### [Cómo comprar Loopring (LRC)](https://topcryptoguide.com/como-comprar-loopring-lrc/)
+
+Esta guía explica **cómo comprar el token Loopring (LRC)**, describiendo los pasos principales para adquirir esta criptomoneda en plataformas de intercambio. Incluye cómo registrarse en un exchange que liste LRC, completar la verificación de identidad, depositar fondos y ejecutar la compra del token utilizando los pares comerciales disponibles. También detalla los métodos de pago comúnmente aceptados y ofrece consejos básicos de seguridad para proteger tus activos digitales. La guía está pensada para ayudar a principiantes y usuarios intermedios a sumar LRC a su portafolio de criptomonedas de forma clara y práctica.
