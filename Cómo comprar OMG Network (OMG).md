@@ -1,0 +1,3 @@
+### [Cómo comprar OMG Network (OMG)](https://topcryptoguide.com/como-comprar-omg-network-omg/)
+
+Esta guía explica **cómo comprar el token OMG Network (OMG)**, detallando los pasos habituales para adquirir esta criptomoneda a través de plataformas de intercambio. Describe cómo **registrarse en un exchange que liste OMG**, verificar la cuenta, **depositar fondos** y ejecutar la compra utilizando los pares comerciales disponibles. También menciona los métodos de pago más comunes y proporciona **consejos de seguridad básicos** para proteger tus activos digitales. Está diseñada para ayudar tanto a principiantes como a usuarios intermedios interesados en añadir OMG Network a su portafolio de criptomonedas.
