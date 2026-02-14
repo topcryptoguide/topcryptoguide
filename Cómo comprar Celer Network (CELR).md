@@ -1,0 +1,3 @@
+### [Cómo comprar Celer Network (CELR)](https://topcryptoguide.com/como-comprar-celer-network-celr/)
+
+Esta guía explica **cómo comprar el token Celer Network (CELR)**, detallando los pasos para adquirir esta criptomoneda en plataformas de intercambio. Describe cómo registrarse en un exchange que liste CELR, completar la verificación de cuenta y depositar fondos antes de ejecutar la compra. También menciona los pares comerciales disponibles para CELR y los métodos de pago comunes utilizados para realizar la transacción. Además, incluye recomendaciones de seguridad para proteger tus activos digitales y consejos prácticos para quienes estén comenzando o quieran sumar CELR a su portafolio de criptomonedas.
