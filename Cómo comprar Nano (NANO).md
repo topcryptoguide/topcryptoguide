@@ -1,0 +1,3 @@
+### [Cómo comprar Nano (NANO)](https://topcryptoguide.com/como-comprar-nano-nano/)
+
+Esta guía explica **cómo comprar el token Nano (NANO)**, describiendo los pasos básicos para adquirir esta criptomoneda en plataformas de intercambio. Cubre cómo **registrarse en un exchange que liste NANO**, completar la verificación de cuenta, **depositar fondos** y ejecutar la compra utilizando los pares comerciales disponibles. También menciona los métodos de pago más comunes y proporciona **consejos de seguridad básicos** para proteger tus activos digitales. La guía está pensada para ayudar tanto a principiantes como a usuarios intermedios interesados en añadir Nano a su portafolio de criptomonedas de forma clara y accesible.
